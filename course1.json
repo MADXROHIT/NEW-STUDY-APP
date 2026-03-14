@@ -2,17 +2,26 @@
  "content":[
 
   {
-   "name":"Introduction of Sketchware Pro Class 1",
+   "name":"Introduction Class",
    "type":"video",
+   "duration":"12:30",
    "url":"https://www.youtube.com/live/UoPhBFMyC4Y?si=CKZbwNquou6obDn_",
-   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdpWIxfJJCOGcec-reIHBuRELSw4LIswAAtc4w1Ggjw&s=10"
+   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jaXHDesVnaDBAGzmaxl1lSVPHlovoaZJVMYMHR7k6w&s=10"
   },
 
   {
-   "name":"Sketchware Notes PDF",
+   "name":"Setup Sketchware Project",
+   "type":"video",
+   "duration":"08:45",
+   "url":"https://www.youtube.com/live/LFCEwdfUubI?si=qsoMXxZpHrA-mRSt",
+   "image":"https://i.imgur.com/test2.jpg"
+  },
+
+  {
+   "name":"Complete Notes PDF",
    "type":"pdf",
    "url":"https://example.com/notes.pdf",
-   "image":"https://image-link.jpg"
+   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7A6lI511IIgG75OKOzy7GoJk2TfKweSuESNMUayU3VOO8byjG37J02uk&s=10"
   }
 
  ]
