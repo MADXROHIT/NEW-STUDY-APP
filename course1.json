@@ -1,0 +1,19 @@
+{
+ "content":[
+
+  {
+   "name":"Introduction of Sketchware Pro Class 1",
+   "type":"video",
+   "url":"https://example.com/video.mp4",
+   "image":"https://image-link.jpg"
+  },
+
+  {
+   "name":"Sketchware Notes PDF",
+   "type":"pdf",
+   "url":"https://example.com/notes.pdf",
+   "image":"https://image-link.jpg"
+  }
+
+ ]
+}
