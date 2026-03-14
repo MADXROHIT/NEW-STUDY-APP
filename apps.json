@@ -1,0 +1,14 @@
+{
+ "apps":[
+  {
+   "name":"KHAN GLOBAL STUDIES",
+   "image":"https://image-link.jpg",
+   "json":"https://raw.githubusercontent.com/USERNAME/repo/main/course1.json"
+  },
+  {
+   "name":"CAREERWILL",
+   "image":"https://image-link.jpg",
+   "json":"https://raw.githubusercontent.com/USERNAME/repo/main/course2.json"
+  }
+ ]
+}
